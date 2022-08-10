@@ -6,4 +6,4 @@ This competition is a really good excersise to display my skills in the followin
 
 1) **Extensive data preprocessing and manipulation with Pandas:**  The aproach I am going to take on this project requires extensive data preprocessisng and manipulation, which we are going to be carried out in the most optimized way possible way. This part of the project is going to be done solely on the DataGeneration notebook.
 
-2) **Dealing with an unbalanced dataset, validating and fine tuning a Boosting model:**
+2) **Dealing with an unbalanced dataset, model optimization, and fine-tuning a GradientBoosting model from Scikit-learn:**
