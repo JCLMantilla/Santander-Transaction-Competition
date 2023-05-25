@@ -2,3 +2,5 @@
 sample_submission.csv
 test.csv
 train.csv
+test_augmented.csv
+train_augmented.csv
