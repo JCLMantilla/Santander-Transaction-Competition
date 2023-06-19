@@ -16,8 +16,8 @@ Boosting algorithms are really hard to fine-tune and to use efficiently, but lea
 ## Results: 
   For this competition, we are using the ROC AUC metric, these are the scores achieved so far:
 
-(June 2020): top 3.1% of the public leaderboard 
+(June 2020): top XXX% of the public leaderboard 
   <img width="1021" alt="image" src="https://github.com/JCLMantilla/Santander-Transaction-Competition/assets/56890883/ebc08649-91ea-4b38-9b13-f04a1e632914">
 
-  (October 2022): top 3.8% of the public leaderboard 
+  (October 2022): top 3.1% of the public leaderboard 
   <img width="986" alt="image" src="https://github.com/JCLMantilla/Santander-Transaction-Competition/assets/56890883/d67e9314-a77b-41fb-97fa-8d46a8dcafd2">
