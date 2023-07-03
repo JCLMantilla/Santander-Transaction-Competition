@@ -1,5 +1,5 @@
 # Santander-Transaction-Competition 
-# ATTENTION! THIS PROJECT IS UNDE RMAINTENANCE!
+## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE!
 
 ### TODO: 
   - Switch to SMOTEC data generation to balance dataset
