@@ -1,10 +1,7 @@
+## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE! These are the changes I am working on:
+  - Switch to SMOTEC data generation to balance the dataset
+  - Implement a CV hyper-param search using Skopt and a Sklearn Pipeline with a standard scaler
 # Santander-Transaction-Competition 
-## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE!
-
-### TODO: 
-  - Switch to SMOTEC data generation to balance dataset
-  - Implement a CV hyper-param search using a Sklearn Pipeline with a standard scaler
-
 Welcome to this really interesting project that I am working on! This is the Kaggle competition with the most teams participating, and it serves as a really good exercise since in order to make it into the top 5% you have to ***push your machine learning skills***.
 
 In order to make it to the top 5% or more I will be focusing on these 3 important aspects:
